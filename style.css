@@ -14,7 +14,7 @@ body{
 #page {
   box-sizing:content-box;
   width: 600px;
-  padding: 48px;
+  padding: 24px;
   background-color: #bbb5b5;
   border-radius: 16px;
   margin: 12px auto 12px;
