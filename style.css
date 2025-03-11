@@ -1,6 +1,11 @@
+:root {
+  line-height: 150%;
+  color: #141414;
+  text-size-adjust: ;
+}
 
 body{
-  height: 50%;
+  height: 10%;
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   background-image: url(assets/foods.jpg);
@@ -9,7 +14,7 @@ body{
 #page {
   box-sizing:content-box;
   width: 600px;
-  padding: 8px;
+  padding: 48px;
   background-color: #bbb5b5;
   border-radius: 16px;
   margin: 12px auto 12px;
@@ -23,7 +28,7 @@ img {
 }
 
 main {
-  padding: 12%;
+  padding: 0,5%;
 }
 section + section {
   margin-top: 6%;
